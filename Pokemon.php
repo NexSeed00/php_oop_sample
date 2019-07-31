@@ -72,3 +72,9 @@ $zenigame = new Pokemon('ゼニガメ');
 
 echo $fushigidane->getName();
 echo $zenigame->getName();
+
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
+echo '<br>';
